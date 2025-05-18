@@ -29,7 +29,7 @@ movie_review_sentiment/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/movie_review_sentiment.git
+   git clone https://github.com/your-ZeeshanAbbasii/movie_review_sentiment.git
    cd movie_review_sentiment
 
 2.	Install dependencies:
